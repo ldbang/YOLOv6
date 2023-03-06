@@ -14,5 +14,5 @@ onnx>=1.10.0  # ONNX export
 onnx-simplifier>=0.3.6 # ONNX simplifier
 thop  # FLOPs computation
 # pytorch_quantization>=2.1.1
-numpy>=1.24.0
-#numpy>=1.21.6
+#numpy>=1.24.0
+numpy>=1.21.6
